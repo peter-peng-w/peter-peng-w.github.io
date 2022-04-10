@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Contact
-======
 pw7nc \[at\] virginia \[dot\] edu
