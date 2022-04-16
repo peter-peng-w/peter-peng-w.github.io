@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Peng Wang"
 title_separator          : "-"
 name                     : &name "Peng Wang"
-description              : &description "Master student at University of Virginia"
+description              : &description "Ph.D. student at University of Virginia"
 url                      : https://peter-peng-w.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "peter-peng-w/peter-peng-w.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Peng Wang"
   avatar           : "profile_pw.png"
-  bio              : "CS Master Student @ University of Virginia"
+  bio              : "Ph.D. Student @ University of Virginia"
   location         : "Charlottesville, Virginia"
   employer         :
   pubmed           :
