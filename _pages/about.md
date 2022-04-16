@@ -12,7 +12,7 @@ I am an incoming Ph.D. student in the [Department of Computer Science](https://e
 
 Research Interests
 ======
-My research interests cover a variety of topics in machine learning, including explainable machine learning, graph neural network, natural language processing and reinforcement learning, with applications in information retrieval tasks such as explainable recommendation.
+My research interests cover a variety of topics in machine learning, including explainable machine learning, natural language processing and reinforcement learning, with applications in information retrieval tasks such as explainable recommendation.
 
 Publications
 ======
