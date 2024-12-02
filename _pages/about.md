@@ -18,10 +18,10 @@ Recently, I have been particularly interested in exploring LLM alignment techniq
 
 Publications
 ======
-- **[NeurIPS'24 SoLaR Workshop Spotlight]** On Demonstration Selection for Improving Fairness in Language Models  
+- **[SoLaR@NeurIPS'24 Spotlight]** On Demonstration Selection for Improving Fairness in Language Models  
   Song Wang, __Peng Wang__, Yushun Dong, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li
 
-- **[NeurIPS'24 SoLaR Workshop]** CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models [\[arXiv\]](https://arxiv.org/abs/2407.02408)  
+- **[SoLaR@NeurIPS'24]** CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models [\[arXiv\]](https://arxiv.org/abs/2407.02408)  
   Song Wang\*, __Peng Wang\*__, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li 
 
 - **[TheWebConf'22]** Graph-based Extractive Explainer for Recommendations [\[arXiv\]](https://arxiv.org/abs/2202.09730)  
