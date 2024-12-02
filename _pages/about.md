@@ -16,9 +16,11 @@ My research interests span various topics in machine learning, including informa
 
 Publications
 ======
-[NeurIPS'24 SoLaR Workshop Spotlight] On Demonstration Selection for Improving Fairness in Language Models
-Song Wang, __Peng Wang__, Yushun Dong, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li
-[NeurIPS'24 SoLaR Workshop] CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models [\[arXiv\]](https://arxiv.org/abs/2407.02408)
-Song Wang\*, __Peng Wang\*__, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li 
-[TheWebConf'22] Graph-based Extractive Explainer for Recommendations [\[arXiv\]](https://arxiv.org/abs/2202.09730)  
-__Peng Wang\*__, Renqin Cai\*, Hongning Wang
+- **[NeurIPS'24 SoLaR Workshop Spotlight]** On Demonstration Selection for Improving Fairness in Language Models
+  Song Wang, __Peng Wang__, Yushun Dong, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li
+
+- **[NeurIPS'24 SoLaR Workshop]** CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models [\[arXiv\]](https://arxiv.org/abs/2407.02408)
+  Song Wang\*, __Peng Wang\*__, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li 
+
+- **[TheWebConf'22]** Graph-based Extractive Explainer for Recommendations [\[arXiv\]](https://arxiv.org/abs/2202.09730)
+  __Peng Wang\*__, Renqin Cai\*, Hongning Wang
