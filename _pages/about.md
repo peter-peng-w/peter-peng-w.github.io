@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](http://www.virginia.edu/), co-advised by [Prof. Cong Shen](https://cshen317.github.io/) and [Prof. Jing Yang](https://www.ee.psu.edu/yang/). Previously, I received my M.S. degree from the Department of Computer Science at the University of Virginia and my B.Eng. degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/). I am especially grateful to have been advised by [Prof. Hongning Wang](https://www.cs.virginia.edu/~hw5x/). I was also fortunate to do my internship at [Zhipu AI](https://www.zhipuai.cn/) from June 2024 to September 2024. My latest CV is available [here](http://peter-peng-w.github.io/files/Resume_Peng Wang.pdf).
+I am a third-year Ph.D. student in the Department of Computer Science at the University of Virginia, co-advised by [Prof. Cong Shen](https://cshen317.github.io/) and [Prof. Jing Yang](https://www.ee.psu.edu/yang/). Previously, I received my M.S. degree from the Department of Computer Science at the University of Virginia and my B.Eng. degree from the Department of Computer Science and Technology at Tsinghua University. I am especially grateful to have been advised by [Prof. Hongning Wang](https://www.cs.virginia.edu/~hw5x/). I was also fortunate to do my internship at [Zhipu AI](https://www.zhipuai.cn/) from June 2024 to September 2024. My latest CV is available [here](http://peter-peng-w.github.io/files/Resume_Peng Wang.pdf).
 
 Research Interests
 ======
