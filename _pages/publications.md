@@ -33,7 +33,7 @@ author_profile: true
 {% endif %} -->
 
 ### Preprints / In Submission
-- [In Submission] A Shared Low-Rank Adaptation Approach to Personalized RLHF
+- [In Submission] A Shared Low-Rank Adaptation Approach to Personalized RLHF  
   Renpu Liu, Donghao Li, **Peng Wang**, Cong Shen, Jing Yang
 
 ### Conference Papers
