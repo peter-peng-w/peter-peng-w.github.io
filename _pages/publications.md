@@ -47,7 +47,7 @@ author_profile: true
   **Peng Wang\***, Renqin Cai\*, Hongning Wang
 
 ### Journal Papers
-- **[JMIR]** Recruitment Challenges and Strategies in a Technology-Based Intervention for Dementia Caregivers: Descriptive Study
+- **[JMIR]** Recruitment Challenges and Strategies in a Technology-Based Intervention for Dementia Caregivers: Descriptive Study  
   Eunjung Ko, Ye Gao, **Peng Wang**, Lahiru Wijayasingha, Kathy D Wright, Kristina C Gordon, Hongning Wang, John A Stankovic, Karen M Rose
 
 
