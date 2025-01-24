@@ -13,7 +13,9 @@ I am a third-year Ph.D. student in the Department of Computer Science at the Uni
 <h1 style="font-size: 20px;">Research Interests</h1>
 
 My research interests span various topics in machine learning, including information retrieval, reinforcement learning, and trustworthy AI. Recently, I have been particularly interested in exploring large language models (LLMs) alignment techniques to improve the reliability of generated responses and enhance models' **reasoning abilities**.  
+
 Additionally, I am interested in the **trustworthiness** of LLMs, including (but not limited to) their robustness against malicious attacks during instruction tuning and fairness issues in in-context learning.
+
 <!-- - Efficient Reasoning: Designing framework for efficient reasoning to compress the wordy reasoning chain in o1-like models.
 - LLM Alignment:  -->
 
