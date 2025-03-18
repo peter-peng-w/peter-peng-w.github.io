@@ -32,16 +32,14 @@ author_profile: true
   {% endfor %}
 {% endif %} -->
 
-### Preprints / In Submission
-- [In Submission] A Shared Low-Rank Adaptation Approach to Personalized RLHF  
-  Renpu Liu, Donghao Li, **Peng Wang**, Cong Shen, Jing Yang
-
 ### Conference Papers
+- **[AISTATS'25]** A Shared Low-Rank Adaptation Approach to Personalized RLHF  
+  Renpu Liu, **Peng Wang**, Donghao Li, Cong Shen, Jing Yang
+- **[ICLR'25 <span style="color: red;">Spotlight</span>]** CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models [[arXiv]](https://arxiv.org/abs/2407.02408)  
+  Song Wang\*, **Peng Wang\***, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li 
+
 - **[SoLaR@NeurIPS'24 Spotlight]** On Demonstration Selection for Improving Fairness in Language Models  
   Song Wang, **Peng Wang**, Yushun Dong, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li
-
-- **[SoLaR@NeurIPS'24]** CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models [[arXiv]](https://arxiv.org/abs/2407.02408)  
-  Song Wang\*, **Peng Wang\***, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li 
 
 - **[TheWebConf'22]** Graph-based Extractive Explainer for Recommendations [[arXiv]](https://arxiv.org/abs/2202.09730)  
   **Peng Wang\***, Renqin Cai\*, Hongning Wang
