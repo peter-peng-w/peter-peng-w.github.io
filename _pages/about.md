@@ -20,8 +20,8 @@ Additionally, I am interested in the **trustworthiness** of LLMs, including (but
 - LLM Alignment:  -->
 
 <h1 style="font-size: 20px;">What's New</h1>
-
-* 2025.01: One first-author paper on **Fairness in Large Language Models** is accepted at ICLR 2025!
+* 2025.05: Moved to NYC and started my internship at Amazon Ads!
+* 2025.01: One first-author paper on **Fairness in Large Language Models** is accepted at ICLR 2025 (🏆 <span style="color:red; font-weight:bold;">Spotlight</span>)!
 * 2025.01: One co-authored paper on **Personalized RLHF** is accepted at AISTATS 2025!
 * 2024.06: Returned to Beijing and started my internship at [Zhipu AI](https://www.zhipuai.cn/)!
 
