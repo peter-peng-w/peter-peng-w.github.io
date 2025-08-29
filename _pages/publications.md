@@ -33,7 +33,11 @@ author_profile: true
 {% endif %} -->
 
 ### Conference Papers
-- **[AISTATS'25]** A Shared Low-Rank Adaptation Approach to Personalized RLHF  
+- **[EMNLP'25 Main]** Separate the Wheat from the Chaff: Winnowing Down Divergent Views in Retrieval Augmented Generation  
+  Song Wang, Zihan Chen, **Peng Wang**, Zhepei Wei, Zhen Tan, Yu Meng, Cong Shen, Jundong Li
+- **[EMNLP'25 Findings]** InfAL: Inference Time Adversarial Learning for Improving Research Ideation  
+  Sikun Guo, Amir Hassan Shariatmadari, **Peng Wang**, Albert Huang, Aidong Zhang
+- **[AISTATS'25]** A Shared Low-Rank Adaptation Approach to Personalized RLHF [[arXiv]](https://arxiv.org/abs/2503.19201)  
   Renpu Liu, **Peng Wang**, Donghao Li, Cong Shen, Jing Yang
 - **[ICLR'25 <span style="color: red;">Spotlight</span>]** CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models [[arXiv]](https://arxiv.org/abs/2407.02408)  
   Song Wang\*, **Peng Wang\***, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li 
