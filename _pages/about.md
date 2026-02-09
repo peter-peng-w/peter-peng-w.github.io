@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in the Department of Computer Science at the University of Virginia, co-advised by [Prof. Jing Yang](https://www.ee.psu.edu/yang/) and [Prof. Cong Shen](https://cshen317.github.io/). Previously, I received my M.S. degree in Computer Science from the University of Virginia and my B.Eng. degree in Computer Science and Technology from Tsinghua University. I am especially grateful to have been advised by [Prof. Hongning Wang](https://www.cs.virginia.edu/~hw5x/). My latest CV is available [here](http://peter-peng-w.github.io/files/Resume_Peng_Wang.pdf).
+I am a fourth-year Ph.D. student in the Department of Computer Science at the University of Virginia, co-advised by [Prof. Jing Yang](https://www.ee.psu.edu/yang/) and [Prof. Cong Shen](https://cshen317.github.io/). Previously, I received my M.S. degree in Computer Science from the University of Virginia and my B.Eng. degree in Computer Science and Technology from Tsinghua University. I am especially grateful to have been advised by [Prof. Hongning Wang](https://www.cs.virginia.edu/~hw5x/). My latest CV is available [here](http://peter-peng-w.github.io/files/Resume.pdf).
 
 <h1 style="font-size: 20px;">Research Interests</h1>
 
-My research interests span various topics in machine learning, including information retrieval, reinforcement learning, and trustworthy AI. Recently, I have been particularly interested in exploring large language models (LLMs) alignment techniques to improve the reliability of generated responses and enhance models' **reasoning abilities**.  
+My research interests span various topics in machine learning, including information retrieval, reinforcement learning, and trustworthy AI. Recently, I have been particularly interested in exploring **Reinforcement Post-training** techniques to improve models’ reasoning abilities by designing variants of GRPO and building skill-targeted agentic pipelines.
 
-Additionally, I am interested in the **trustworthiness** of LLMs, including (but not limited to) their robustness against malicious attacks during instruction tuning and fairness issues in in-context learning.
+Additionally, I am interested in the **trustworthiness** of LLMs, including their robustness against malicious attacks during instruction tuning and fairness issues in both training-free evaluation (e.g., through in-context learning) and alignment tuning.
 
 <!-- - Efficient Reasoning: Designing framework for efficient reasoning to compress the wordy reasoning chain in o1-like models.
 - LLM Alignment:  -->
 
 <h1 style="font-size: 20px;">What's New</h1>
+* 2026.01: One paper got accepted at ICLR 2026!
 * 2025.08: Two papers got accepted at EMNLP 2025!
 * 2025.05: Moved to NYC and started my internship at Amazon Ads Decision Science Team!
 * 2025.01: One first-author paper on **Fairness in Large Language Models** is accepted at ICLR 2025 (🏆 <span style="color:red; font-weight:bold;">Spotlight</span>)!
