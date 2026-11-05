@@ -20,7 +20,8 @@ Additionally, I am interested in the **trustworthiness** of LLMs, including thei
 - LLM Alignment:  -->
 
 <h1 style="font-size: 20px;">What's New</h1>
-* 2026.01: One paper got accepted at ICLR 2026!
+* 2026.09: My first-author paper **Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation (SCPO)** got accepted at **NeurIPS 2026**!
+* 2026.01: Our paper [**Reward Is Enough: LLMs Are In-Context Reinforcement Learners**](https://proceedings.iclr.cc/paper_files/paper/2026/hash/b7511dfe2e7a1fa45e093cc75389abc2-Abstract-Conference.html) got accepted at ICLR 2026!
 * 2025.08: Two papers got accepted at EMNLP 2025!
 * 2025.05: Moved to NYC and started my internship at Amazon Ads Decision Science Team!
 * 2025.01: One first-author paper on **Fairness in Large Language Models** is accepted at ICLR 2025 (🏆 <span style="color:red; font-weight:bold;">Spotlight</span>)!
