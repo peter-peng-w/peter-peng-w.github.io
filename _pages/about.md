@@ -3,6 +3,7 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
+page_class: primary-page
 redirect_from: 
   - /about/
   - /about.html
@@ -10,7 +11,7 @@ redirect_from:
 
 I am a fifth-year Ph.D. student in the Department of Computer Science at the University of Virginia, co-advised by [Prof. Jing Yang](https://www.ee.psu.edu/yang/) and [Prof. Cong Shen](https://cshen317.github.io/). Previously, I received my M.S. degree in Computer Science from the University of Virginia and my B.Eng. degree in Computer Science and Technology from Tsinghua University. I am especially grateful to have been advised by [Prof. Hongning Wang](https://www.cs.virginia.edu/~hw5x/). My latest CV is available [here](http://peter-peng-w.github.io/files/Resume.pdf).
 
-<h1 style="font-size: 20px;">Research Interests</h1>
+## Research Interests
 
 My research interests span various topics in machine learning, including information retrieval, reinforcement learning, and trustworthy AI. Recently, I have been particularly interested in exploring **Reinforcement Post-training** techniques to improve models’ reasoning abilities by designing variants of GRPO and building skill-targeted agentic pipelines.
 
@@ -19,7 +20,8 @@ Additionally, I am interested in the **trustworthiness** of LLMs, including thei
 <!-- - Efficient Reasoning: Designing framework for efficient reasoning to compress the wordy reasoning chain in o1-like models.
 - LLM Alignment:  -->
 
-<h1 style="font-size: 20px;">What's New</h1>
+## What's New
+
 * 2026.09: My first-author paper **Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation (SCPO)** got accepted at **NeurIPS 2026**!
 * 2026.01: Our paper [**Reward Is Enough: LLMs Are In-Context Reinforcement Learners**](https://proceedings.iclr.cc/paper_files/paper/2026/hash/b7511dfe2e7a1fa45e093cc75389abc2-Abstract-Conference.html) got accepted at ICLR 2026!
 * 2025.08: Two papers got accepted at EMNLP 2025!

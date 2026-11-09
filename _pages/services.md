@@ -3,7 +3,7 @@ layout: archive
 title: "Services"
 permalink: /services/
 author_profile: true
-page_class: services-layout
+page_class: primary-page
 redirect_from:
   - /services
 # Add published PDFs for the Fall 2025 ECE 6501 guest lecture here.
@@ -16,7 +16,7 @@ guest_lecture_slides: []
 <div class="services-page">
   <section class="service-section" aria-labelledby="teaching-heading">
     <h2 id="teaching-heading">Teaching</h2>
-    <p class="service-institution">University of Virginia</p>
+    <p class="page-detail">University of Virginia</p>
 
     <h3 class="service-role">Graduate Teaching Assistant</h3>
     <ul class="service-list" role="list">
@@ -35,7 +35,7 @@ guest_lecture_slides: []
     <ul class="service-list" role="list">
       <li>
         CS 4774 Machine Learning <span class="service-term">· Fall 2026</span>
-        <p class="service-detail">
+        <p class="page-detail service-detail">
           How Are Large Language Models Trained? From next-token prediction to reasoning ·
           <a href="{{ '/files/CS4774_GuestLecture_LLM_NextTokenToReasoning.pdf' | relative_url | escape }}" aria-label="Slides (PDF) for How Are Large Language Models Trained?">Slides (PDF)</a>
         </p>
@@ -43,7 +43,7 @@ guest_lecture_slides: []
       <li>
         ECE 6501 Reinforcement Learning and LLM <span class="service-term">· Fall 2025</span>
         {% if page.guest_lecture_slides.size > 0 %}
-        <p class="service-detail">
+        <p class="page-detail service-detail">
           {% for slides in page.guest_lecture_slides %}
           <a href="{{ slides.url | relative_url | escape }}">{{ slides.title | escape }} (PDF)</a>{% unless forloop.last %} · {% endunless %}
           {% endfor %}
