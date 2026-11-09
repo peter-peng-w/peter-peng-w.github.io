@@ -3,9 +3,10 @@ layout: archive
 title: "Services"
 permalink: /services/
 author_profile: true
+page_class: services-layout
 redirect_from:
   - /services
-# Add published PDF files here to show links on the guest lecture.
+# Add published PDFs for the Fall 2025 ECE 6501 guest lecture here.
 # Each entry takes a title and a local URL, such as /files/lecture-slides.pdf.
 guest_lecture_slides: []
 ---
@@ -53,6 +54,23 @@ guest_lecture_slides: []
 
     <h3 class="service-role">Guest Lecturer</h3>
     <ul class="service-courses" role="list">
+      <li class="service-course">
+        <div class="service-course__copy">
+          <span class="service-course__code">CS 4774</span>
+          <h4>Machine Learning</h4>
+          <p class="service-course__topic">How Are Large Language Models Trained?<br>From next-token prediction to reasoning</p>
+        </div>
+        <div class="service-terms">
+          <span class="service-term service-term--fall">Fall 2026</span>
+        </div>
+        <div class="service-course__resources">
+          <a class="service-slides" href="{{ '/files/CS4774_GuestLecture_LLM_NextTokenToReasoning.pdf' | relative_url | escape }}" aria-label="Lecture slides: How Are Large Language Models Trained? From next-token prediction to reasoning (PDF)">
+            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h5"/></svg>
+            <span>Lecture slides</span>
+            <span class="service-slides__format">PDF</span>
+          </a>
+        </div>
+      </li>
       <li class="service-course">
         <div class="service-course__copy">
           <span class="service-course__code">ECE 6501</span>

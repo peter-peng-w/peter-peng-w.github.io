@@ -1,6 +1,15 @@
 /* Services page: course lists, semester labels, and reviewer recognition. */
+.archive.services-layout > .page__title {
+  margin: 0 0 1.1rem;
+  color: #263c44;
+  font-size: 1.2rem;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.3;
+}
+
 .services-page {
-  margin-top: 1.5rem;
+  margin-top: 0;
   color: #34464e;
   line-height: 1.6;
 }
@@ -16,9 +25,9 @@
 .services-page .service-section__header h2 {
   margin: 0;
   color: #24383f;
-  font-size: 1.35rem;
-  font-weight: 650;
-  letter-spacing: -0.025em;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
 
 .services-page .service-institution {
@@ -28,13 +37,12 @@
 }
 
 .services-page .service-role {
-  margin: 1.35rem 0 0.25rem;
-  color: #617278;
-  font-size: 0.72rem;
-  font-weight: 650;
-  letter-spacing: 0.09em;
+  margin: 1.1rem 0 0.15rem;
+  color: #53696f;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0;
   line-height: 1.5;
-  text-transform: uppercase;
 }
 
 .services-page .service-courses {
@@ -47,27 +55,29 @@
   display: grid;
   grid-template-columns: minmax(0, 1fr) max-content;
   align-items: center;
-  gap: 0.75rem 1.25rem;
+  gap: 0.55rem 1.25rem;
   margin: 0;
-  padding: 0.9rem 0;
+  padding: 0.65rem 0;
   border-bottom: 1px solid #e7edee;
 }
 
 .services-page .service-course__code {
+  display: block;
   color: #5e7279;
   font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
-  font-size: 0.75rem;
+  font-size: 0.72rem;
   font-weight: 500;
   letter-spacing: 0.06em;
+  line-height: 1.4;
 }
 
 .services-page .service-course h4 {
-  margin: 0.22rem 0 0;
+  margin: 0.18rem 0 0;
   color: #263c44;
-  font-size: 1.02rem;
-  font-weight: 600;
-  letter-spacing: -0.015em;
-  line-height: 1.4;
+  font-size: 0.88rem;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 1.45;
 }
 
 .services-page .service-terms {
@@ -75,6 +85,13 @@
   flex-wrap: wrap;
   gap: 0.4rem;
   justify-content: flex-end;
+}
+
+.services-page .service-course__topic {
+  margin: 0.35rem 0 0;
+  color: #53696f;
+  font-size: 0.8rem;
+  line-height: 1.5;
 }
 
 .services-page .service-term {
@@ -164,13 +181,11 @@
 }
 
 .services-page .service-section--reviewer {
-  margin-top: 1.65rem;
-  padding-top: 1.35rem;
-  border-top: 1px solid #dce5e7;
+  margin-top: 1.25rem;
 }
 
 .services-page .service-reviewers {
-  margin: 0.75rem 0 0;
+  margin: 0.5rem 0 0;
   padding: 0;
   list-style: none;
 }
@@ -182,13 +197,13 @@
   align-items: baseline;
   gap: 0.3rem 1rem;
   margin: 0;
-  padding: 0.6rem 0 0.6rem 0.85rem;
-  font-size: 0.88rem;
+  padding: 0.45rem 0 0.45rem 0.85rem;
+  font-size: 0.83rem;
 }
 
 .services-page .service-reviewers li::before {
   position: absolute;
-  top: 1.18rem;
+  top: 1rem;
   left: 0;
   width: 0.22rem;
   height: 0.22rem;
@@ -204,6 +219,18 @@
 }
 
 @media (max-width: 700px) {
+  .services-page .service-course h4 {
+    font-size: 1rem;
+  }
+
+  .services-page .service-course__code {
+    font-size: 0.75rem;
+  }
+
+  .services-page .service-course__topic {
+    font-size: 0.875rem;
+  }
+
   .services-page .service-course {
     grid-template-columns: minmax(0, 1fr);
     gap: 0.7rem;
