@@ -21,10 +21,12 @@ guest_lecture_slides: []
     <h3 class="service-role">Graduate Teaching Assistant</h3>
     <ul class="service-list" role="list">
       <li>
-        CS 4774 Machine Learning <span class="service-term">· Fall 2026, Spring 2026</span>
+        CS 4774 Machine Learning
+        <span class="service-term">· <a href="https://qiyanjun.github.io/2026Fall-UVA-CS-MachineLearningDeep/" aria-label="Fall 2026 CS 4774 Machine Learning course website">Fall 2026</a>, Spring 2026</span>
       </li>
       <li>
-        CS 6501 Natural Language Processing <span class="service-term">· Spring 2025</span>
+        CS 6501 Natural Language Processing
+        <span class="service-term">· <a href="https://yumeng5.github.io/teaching/2025-spring-cs6501" aria-label="Spring 2025 CS 6501 Natural Language Processing course website">Spring 2025</a></span>
       </li>
       <li>
         CS 6762 Signal Processing, Machine Learning and Control <span class="service-term">· Fall 2024</span>
