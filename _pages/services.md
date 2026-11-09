@@ -15,102 +15,50 @@ guest_lecture_slides: []
 
 <div class="services-page">
   <section class="service-section" aria-labelledby="teaching-heading">
-    <header class="service-section__header">
-      <h2 id="teaching-heading">Teaching</h2>
-      <p class="service-institution">University of Virginia</p>
-    </header>
+    <h2 id="teaching-heading">Teaching</h2>
+    <p class="service-institution">University of Virginia</p>
 
     <h3 class="service-role">Graduate Teaching Assistant</h3>
-    <ul class="service-courses" role="list">
-      <li class="service-course">
-        <div class="service-course__copy">
-          <span class="service-course__code">CS 4774</span>
-          <h4>Machine Learning</h4>
-        </div>
-        <div class="service-terms">
-          <span class="service-term service-term--fall">Fall 2026</span>
-          <span class="service-term service-term--spring">Spring 2026</span>
-        </div>
+    <ul class="service-list" role="list">
+      <li>
+        CS 4774 Machine Learning <span class="service-term">· Fall 2026, Spring 2026</span>
       </li>
-      <li class="service-course">
-        <div class="service-course__copy">
-          <span class="service-course__code">CS 6501</span>
-          <h4>Natural Language Processing</h4>
-        </div>
-        <div class="service-terms">
-          <span class="service-term service-term--spring">Spring 2025</span>
-        </div>
+      <li>
+        CS 6501 Natural Language Processing <span class="service-term">· Spring 2025</span>
       </li>
-      <li class="service-course">
-        <div class="service-course__copy">
-          <span class="service-course__code">CS 6762</span>
-          <h4>Signal Processing, Machine Learning and Control</h4>
-        </div>
-        <div class="service-terms">
-          <span class="service-term service-term--fall">Fall 2024</span>
-        </div>
+      <li>
+        CS 6762 Signal Processing, Machine Learning and Control <span class="service-term">· Fall 2024</span>
       </li>
     </ul>
 
     <h3 class="service-role">Guest Lecturer</h3>
-    <ul class="service-courses" role="list">
-      <li class="service-course">
-        <div class="service-course__copy">
-          <span class="service-course__code">CS 4774</span>
-          <h4>Machine Learning</h4>
-          <p class="service-course__topic">How Are Large Language Models Trained?<br>From next-token prediction to reasoning</p>
-        </div>
-        <div class="service-terms">
-          <span class="service-term service-term--fall">Fall 2026</span>
-        </div>
-        <div class="service-course__resources">
-          <a class="service-slides" href="{{ '/files/CS4774_GuestLecture_LLM_NextTokenToReasoning.pdf' | relative_url | escape }}" aria-label="Lecture slides: How Are Large Language Models Trained? From next-token prediction to reasoning (PDF)">
-            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h5"/></svg>
-            <span>Lecture slides</span>
-            <span class="service-slides__format">PDF</span>
-          </a>
-        </div>
+    <ul class="service-list" role="list">
+      <li>
+        CS 4774 Machine Learning <span class="service-term">· Fall 2026</span>
+        <p class="service-detail">
+          How Are Large Language Models Trained? From next-token prediction to reasoning ·
+          <a href="{{ '/files/CS4774_GuestLecture_LLM_NextTokenToReasoning.pdf' | relative_url | escape }}" aria-label="Slides (PDF) for How Are Large Language Models Trained?">Slides (PDF)</a>
+        </p>
       </li>
-      <li class="service-course">
-        <div class="service-course__copy">
-          <span class="service-course__code">ECE 6501</span>
-          <h4>Reinforcement Learning and LLM</h4>
-        </div>
-        <div class="service-terms">
-          <span class="service-term service-term--fall">Fall 2025</span>
-        </div>
+      <li>
+        ECE 6501 Reinforcement Learning and LLM <span class="service-term">· Fall 2025</span>
         {% if page.guest_lecture_slides.size > 0 %}
-        <div class="service-course__resources">
+        <p class="service-detail">
           {% for slides in page.guest_lecture_slides %}
-          <a class="service-slides" href="{{ slides.url | relative_url | escape }}">
-            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h5"/></svg>
-            <span>{{ slides.title | escape }}</span>
-            <span class="service-slides__format">PDF</span>
-          </a>
+          <a href="{{ slides.url | relative_url | escape }}">{{ slides.title | escape }} (PDF)</a>{% unless forloop.last %} · {% endunless %}
           {% endfor %}
-        </div>
+        </p>
         {% endif %}
       </li>
     </ul>
   </section>
 
-  <section class="service-section service-section--reviewer" aria-labelledby="reviewer-heading">
-    <header class="service-section__header">
-      <h2 id="reviewer-heading">Reviewer</h2>
-    </header>
-    <ul class="service-reviewers" role="list">
-      <li>
-        <span class="service-reviewers__label">Conference Reviewer</span>
-        <span>NeurIPS, ICML, ICLR, AAAI, ACL, NAACL, EMNLP, ACM FAccT</span>
-      </li>
-      <li>
-        <span class="service-reviewers__label">Journal Reviewer</span>
-        <span>ACM TIST, IEEE TCCN, TMLR</span>
-      </li>
-      <li>
-        <span class="service-reviewers__label">Awards</span>
-        <span>ICML 2026 Gold Reviewer</span>
-      </li>
+  <section class="service-section" aria-labelledby="reviewer-heading">
+    <h2 id="reviewer-heading">Reviewer</h2>
+    <ul class="service-list" role="list">
+      <li>Conference Reviewer · NeurIPS, ICML, ICLR, AAAI, ACL, NAACL, EMNLP, ACM FAccT</li>
+      <li>Journal Reviewer · ACM TIST, IEEE TCCN, TMLR</li>
+      <li>Awards · ICML 2026 Gold Reviewer</li>
     </ul>
   </section>
 </div>
