@@ -7,6 +7,22 @@
   margin-top: 0;
 }
 
+.services-page .service-institution {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+.services-page .service-institution img {
+  flex-shrink: 0;
+  width: 104px;
+  height: auto;
+  border-radius: 0;
+}
+
 .services-page .page-detail {
   margin: 0;
 }

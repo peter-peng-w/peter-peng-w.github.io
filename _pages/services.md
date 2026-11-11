@@ -16,7 +16,10 @@ guest_lecture_slides: []
 <div class="services-page">
   <section class="service-section" aria-labelledby="teaching-heading">
     <h2 id="teaching-heading">Teaching</h2>
-    <p class="page-detail">University of Virginia</p>
+    <p class="service-institution">
+      <img src="{{ '/images/uva-logo.svg' | relative_url }}" width="104" height="25" alt="">
+      <span>University of Virginia</span>
+    </p>
 
     <h3 class="service-role">Graduate Teaching Assistant</h3>
     <ul class="service-list" role="list">
