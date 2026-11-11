@@ -183,9 +183,15 @@
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+    transition: color 0.2s ease;
 
     &:hover {
       color: $masthead-link-color-hover;
+    }
+
+    &[aria-current="page"] {
+      color: $link-color;
+      font-weight: 600;
     }
   }
 
@@ -248,6 +254,13 @@
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
       }
+
+      &[aria-current="page"]:before {
+        background: $link-color;
+        transform: scaleX(1);
+        transform-origin: left;
+        animation: nav-current 0.2s ease-out;
+      }
     }
   }
 
@@ -270,6 +283,11 @@
       &:hover {
         color: $masthead-link-color-hover;
         background: mix(#fff, $primary-color, 75%);
+      }
+
+      &[aria-current="page"] {
+        color: $link-color;
+        background: mix(#fff, $link-color, 90%);
       }
     }
 
@@ -307,6 +325,15 @@
         border-bottom: none;
       }
     }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .greedy-nav a,
+  .greedy-nav .visible-links a:before,
+  .greedy-nav .visible-links a[aria-current="page"]:before {
+    transition: none;
+    animation: none;
   }
 }
 
