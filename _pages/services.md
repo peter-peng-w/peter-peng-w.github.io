@@ -17,7 +17,7 @@ guest_lecture_slides: []
   <section class="service-section" aria-labelledby="teaching-heading">
     <h2 id="teaching-heading">Teaching</h2>
     <p class="service-institution">
-      <img src="{{ '/images/uva-seal.png' | relative_url }}" width="36" height="36" alt="">
+      <img src="{{ '/images/uva-seal.png' | relative_url }}" width="44" height="44" alt="">
       <span>University of Virginia</span>
     </p>
 
