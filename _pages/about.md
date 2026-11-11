@@ -31,6 +31,10 @@ Additionally, I am interested in the **trustworthiness** of LLMs, including thei
 * 2025.01: One co-authored paper on **Personalized RLHF** is accepted at AISTATS 2025!
 * 2024.06: Returned to Beijing and started my internship at [Zhipu AI](https://www.zhipuai.cn/)!
 
+## Misc
+
+During my undergraduate studies, I was a member of the [Tsinghua University Chorus](https://www.arts.tsinghua.edu.cn/).
+
 
 <!-- Publications
 ======
