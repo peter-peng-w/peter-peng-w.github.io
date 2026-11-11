@@ -1,10 +1,10 @@
 /* Services list spacing. */
 .services-page .service-section + .service-section {
-  margin-top: 1.5em;
+  margin-top: 24px;
 }
 
 .services-page .service-section h2 {
-  margin-top: 0;
+  margin: 0 0 10px;
 }
 
 .services-page .service-institution {
@@ -28,7 +28,14 @@
 }
 
 .services-page .service-role {
-  margin: 0.95em 0 0.3em;
+  margin: 20px 0 6px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.services-page .service-institution + .service-role {
+  margin-top: 16px;
 }
 
 .services-page .service-list {
