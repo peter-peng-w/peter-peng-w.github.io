@@ -23,6 +23,7 @@ Additionally, I am interested in the **trustworthiness** of LLMs, including thei
 ## What's New
 
 * 2026.09: My first-author paper **Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation (SCPO)** got accepted at **NeurIPS 2026**!
+* 2026.05: Moved to the Bay Area and started my internship with Adobe’s Photoshop team, working on post-training the Photoshop agent!
 * 2026.01: Our paper [**Reward Is Enough: LLMs Are In-Context Reinforcement Learners**](https://proceedings.iclr.cc/paper_files/paper/2026/hash/b7511dfe2e7a1fa45e093cc75389abc2-Abstract-Conference.html) got accepted at ICLR 2026!
 * 2025.08: Two papers got accepted at EMNLP 2025!
 * 2025.05: Moved to NYC and started my internship at Amazon Ads Decision Science Team!
