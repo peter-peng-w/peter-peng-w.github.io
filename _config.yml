@@ -21,7 +21,7 @@ repository               : "peter-peng-w/peter-peng-w.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pw.png"
+  avatar           : "profile_pw.jpg"
   name             : "Peng Wang (王澎)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at the University of Virginia"
