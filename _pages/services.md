@@ -43,7 +43,7 @@ guest_lecture_slides: []
         <div class="service-lecture">
           <img src="{{ '/images/llm-guest-lecture-overview.png' | relative_url }}" width="1448" height="1086" alt="AI mascots in a tug of war" loading="lazy" decoding="async">
           <div>
-            <p class="service-lecture__title">How Are Large Language Models Trained? From next-token prediction to reasoning</p>
+            <p class="service-lecture__title">How Are Large Language Models Trained?<br>From next-token prediction to reasoning</p>
             <p class="page-detail">
               <a href="{{ '/files/CS4774_GuestLecture_LLM_NextTokenToReasoning.pdf' | relative_url | escape }}" aria-label="Slides (PDF) for How Are Large Language Models Trained?">Slides (PDF)</a>
             </p>
