@@ -40,10 +40,15 @@ guest_lecture_slides: []
     <ul class="service-list" role="list">
       <li>
         CS 4774 Machine Learning <span class="service-term">· Fall 2026</span>
-        <p class="page-detail service-detail">
-          How Are Large Language Models Trained? From next-token prediction to reasoning ·
-          <a href="{{ '/files/CS4774_GuestLecture_LLM_NextTokenToReasoning.pdf' | relative_url | escape }}" aria-label="Slides (PDF) for How Are Large Language Models Trained?">Slides (PDF)</a>
-        </p>
+        <div class="service-lecture">
+          <img src="{{ '/images/llm-guest-lecture-overview.png' | relative_url }}" width="1448" height="1086" alt="AI mascots in a tug of war" loading="lazy" decoding="async">
+          <div>
+            <p class="service-lecture__title">How Are Large Language Models Trained? From next-token prediction to reasoning</p>
+            <p class="page-detail">
+              <a href="{{ '/files/CS4774_GuestLecture_LLM_NextTokenToReasoning.pdf' | relative_url | escape }}" aria-label="Slides (PDF) for How Are Large Language Models Trained?">Slides (PDF)</a>
+            </p>
+          </div>
+        </div>
       </li>
       <li>
         ECE 6501 Reinforcement Learning and LLM <span class="service-term">· Fall 2025</span>

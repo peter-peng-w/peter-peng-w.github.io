@@ -55,3 +55,28 @@
 .services-page .service-detail {
   margin-top: 0.15em;
 }
+
+.services-page .service-lecture {
+  display: grid;
+  grid-template-columns: 144px minmax(0, 1fr);
+  align-items: start;
+  gap: 20px;
+  margin: 8px 0 12px;
+}
+
+.services-page .service-lecture img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.services-page .service-lecture__title {
+  margin: 0 0 6px;
+}
+
+@media (max-width: 480px) {
+  .services-page .service-lecture {
+    grid-template-columns: 100px minmax(0, 1fr);
+    gap: 12px;
+  }
+}
